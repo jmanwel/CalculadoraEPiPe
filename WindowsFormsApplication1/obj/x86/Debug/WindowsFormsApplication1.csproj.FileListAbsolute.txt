@@ -1,0 +1,12 @@
+C:\Documents and Settings\cla20830\Escritorio\JMGApplication1\Calculadora de EPIPE_JMG\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\cla20830\Escritorio\JMGApplication1\Calculadora de EPIPE_JMG\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\cla20830\Escritorio\JMGApplication1\Calculadora de EPIPE_JMG\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cla20830\Escritorio\JMGApplication1\Calculadora de EPIPE_JMG\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\cla20830\Escritorio\JMGApplication1\Calculadora de EPIPE_JMG\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\cla20830\Escritorio\JMGApplication1\Calculadora de EPIPE_JMG\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\cla20830\Escritorio\JMGApplication1\Calculadora de EPIPE_JMG\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\cla20830\Escritorio\JMGApplication1\Calculadora de EPIPE_JMG\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\cla20830\Escritorio\JMGApplication1\Calculadora de EPIPE_JMG\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\cla20830\Escritorio\JMGApplication1\Calculadora de EPIPE_JMG\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SmallCell.resources
+C:\Documents and Settings\cla20830\Escritorio\JMGApplication1\Calculadora de EPIPE_JMG\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CAC.resources
+C:\Documents and Settings\cla20830\Escritorio\JMGApplication1\Calculadora de EPIPE_JMG\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LTE.resources
